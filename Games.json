@@ -4,5 +4,11 @@
     "GameId": 90920025162454,
     "FallbackName": "Roll a Fisherman",
     "Status": "Available"
+  },
+  {
+    "Id": "highway-patrol",
+    "GameId": 128808728984345,
+    "FallbackName": "Highway Patrol",
+    "Status": "Available"
   }
 ]
