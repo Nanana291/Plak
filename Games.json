@@ -22,5 +22,11 @@
     "GameId": 10436530264,
     "FallbackName": "Build An Ant Empire",
     "Status": "Available"
+  },
+  {
+    "Id": "chop-a-forest",
+    "GameId": 103363457515322,
+    "FallbackName": "Chop A Forest",
+    "Status": "Available"
   }
 ]
