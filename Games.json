@@ -34,5 +34,11 @@
     "GameId": 76731343328034,
     "FallbackName": "Lift Rock For Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "harpoon-a-fish",
+    "GameId": 113384248926706,
+    "FallbackName": "Harpoon a Fish",
+    "Status": "Available"
   }
 ]
