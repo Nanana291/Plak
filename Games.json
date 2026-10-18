@@ -42,12 +42,6 @@
     "Status": "Available"
   },
   {
-    "Id": "cook-an-animal",
-    "GameId": 86435894760071,
-    "FallbackName": "Cook An Animal",
-    "Status": "Available"
-  },
-  {
     "Id": "prehistoric-farm",
     "GameId": 139780970631001,
     "FallbackName": "Prehistoric Farm",
