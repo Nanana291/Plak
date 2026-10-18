@@ -40,5 +40,11 @@
     "GameId": 113384248926706,
     "FallbackName": "Harpoon a Fish",
     "Status": "Available"
+  },
+  {
+    "Id": "cook-an-animal",
+    "GameId": 86435894760071,
+    "FallbackName": "Cook An Animal",
+    "Status": "Available"
   }
 ]
