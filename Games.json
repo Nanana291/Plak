@@ -46,5 +46,17 @@
     "GameId": 139780970631001,
     "FallbackName": "Prehistoric Farm",
     "Status": "Available"
+  },
+  {
+    "Id": "be-a-pirate",
+    "GameId": 78265060714011,
+    "FallbackName": "Be a Pirate",
+    "Status": "Available"
+  },
+  {
+    "Id": "plus-1-aura-for-anime",
+    "GameId": 127709083459464,
+    "FallbackName": "+1 Aura for Anime!",
+    "Status": "Available"
   }
 ]
