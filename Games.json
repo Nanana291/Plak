@@ -70,5 +70,11 @@
     "GameId": 137922625460109,
     "FallbackName": "Steal A DNA",
     "Status": "Available"
+  },
+  {
+    "Id": "steel-fighters",
+    "GameId": 74122653145285,
+    "FallbackName": "Steel Fighters",
+    "Status": "Available"
   }
 ]
