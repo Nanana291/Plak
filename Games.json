@@ -76,5 +76,11 @@
     "GameId": 74122653145285,
     "FallbackName": "Steel Fighters",
     "Status": "Available"
+  },
+  {
+    "Id": "make-rugs",
+    "GameId": 123184865562509,
+    "FallbackName": "Make Rugs!",
+    "Status": "Available"
   }
 ]
