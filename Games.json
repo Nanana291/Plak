@@ -58,5 +58,11 @@
     "GameId": 127709083459464,
     "FallbackName": "+1 Aura for Anime!",
     "Status": "Available"
+  },
+  {
+    "Id": "raise-animals-2",
+    "GameId": 131471702049565,
+    "FallbackName": "Raise Animals 2",
+    "Status": "Available"
   }
 ]
