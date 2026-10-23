@@ -88,5 +88,11 @@
     "GameId": 81559365630003,
     "FallbackName": "Create a Robot Fighter",
     "Status": "Available"
+  },
+  {
+    "Id": "tcg-card-shop",
+    "GameId": 140539007819528,
+    "FallbackName": "TCG Card Shop",
+    "Status": "Available"
   }
 ]
