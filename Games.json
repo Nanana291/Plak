@@ -100,5 +100,11 @@
     "GameId": 77993383305312,
     "FallbackName": "Feed the Fire",
     "Status": "Available"
+  },
+  {
+    "Id": "army-commander-tycoon",
+    "GameId": 119263815547952,
+    "FallbackName": "Army Commander Tycoon",
+    "Status": "Available"
   }
 ]
