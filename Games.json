@@ -94,5 +94,11 @@
     "GameId": 140539007819528,
     "FallbackName": "TCG Card Shop",
     "Status": "Available"
+  },
+  {
+    "Id": "feed-the-fire",
+    "GameId": 77993383305312,
+    "FallbackName": "Feed the Fire",
+    "Status": "Available"
   }
 ]
