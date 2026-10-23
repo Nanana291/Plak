@@ -82,5 +82,11 @@
     "GameId": 123184865562509,
     "FallbackName": "Make Rugs!",
     "Status": "Available"
+  },
+  {
+    "Id": "create-a-robot-fighter",
+    "GameId": 81559365630003,
+    "FallbackName": "Create a Robot Fighter",
+    "Status": "Available"
   }
 ]
