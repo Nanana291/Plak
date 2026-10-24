@@ -124,5 +124,11 @@
     "GameId": 104178853788462,
     "FallbackName": "Run a Sari-Sari Store!",
     "Status": "Available"
+  },
+  {
+    "Id": "whack-a-pet",
+    "GameId": 92968857264761,
+    "FallbackName": "Whack A Pet",
+    "Status": "Available"
   }
 ]
