@@ -118,5 +118,11 @@
     "GameId": 98935135380397,
     "FallbackName": "Run a Hotel",
     "Status": "Available"
+  },
+  {
+    "Id": "run-a-sari-sari-store",
+    "GameId": 104178853788462,
+    "FallbackName": "Run a Sari-Sari Store!",
+    "Status": "Available"
   }
 ]
