@@ -112,5 +112,11 @@
     "GameId": 139165770588984,
     "FallbackName": "Fix My Phone!",
     "Status": "Available"
+  },
+  {
+    "Id": "run-a-hotel",
+    "GameId": 98935135380397,
+    "FallbackName": "Run a Hotel",
+    "Status": "Available"
   }
 ]
