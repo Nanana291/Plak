@@ -130,5 +130,11 @@
     "GameId": 92968857264761,
     "FallbackName": "Whack A Pet",
     "Status": "Available"
+  },
+  {
+    "Id": "my-dino-empire",
+    "GameId": 103886526817625,
+    "FallbackName": "My Dino Empire",
+    "Status": "Available"
   }
 ]
