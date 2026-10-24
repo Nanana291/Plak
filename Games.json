@@ -142,5 +142,11 @@
     "GameId": 118517641508250,
     "FallbackName": "Mount Soreya",
     "Status": "Available"
+  },
+  {
+    "Id": "feed-a-mosquito",
+    "GameId": 125310131519813,
+    "FallbackName": "Feed A Mosquito",
+    "Status": "Available"
   }
 ]
