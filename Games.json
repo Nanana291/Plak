@@ -148,5 +148,11 @@
     "GameId": 125310131519813,
     "FallbackName": "Feed A Mosquito",
     "Status": "Available"
+  },
+  {
+    "Id": "kayak-and-surf",
+    "GameId": 136404558442020,
+    "FallbackName": "Kayak and Surf",
+    "Status": "Available"
   }
 ]
