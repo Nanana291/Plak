@@ -178,5 +178,11 @@
     "GameId": 86522629968403,
     "FallbackName": "Catch a Plane!",
     "Status": "Available"
+  },
+  {
+    "Id": "find-animal-bones",
+    "GameId": 122969114308489,
+    "FallbackName": "Find Animal Bones",
+    "Status": "Available"
   }
 ]
