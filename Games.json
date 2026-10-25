@@ -166,5 +166,11 @@
     "GameId": 76678170614451,
     "FallbackName": "Clean the Moon!",
     "Status": "Available"
+  },
+  {
+    "Id": "dig-crash-cars",
+    "GameId": 72187824228036,
+    "FallbackName": "Dig & Crash Cars",
+    "Status": "Available"
   }
 ]
