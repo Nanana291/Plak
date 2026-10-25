@@ -160,5 +160,11 @@
     "GameId": 104154897094697,
     "FallbackName": "Timber!",
     "Status": "Available"
+  },
+  {
+    "Id": "clean-the-moon",
+    "GameId": 76678170614451,
+    "FallbackName": "Clean the Moon!",
+    "Status": "Available"
   }
 ]
