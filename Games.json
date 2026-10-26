@@ -220,5 +220,11 @@
     "GameId": 110432290690507,
     "FallbackName": "Hike For Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-wave-height-surf",
+    "GameId": 124956964190522,
+    "FallbackName": "+1 Wave Height Surf",
+    "Status": "Available"
   }
 ]
