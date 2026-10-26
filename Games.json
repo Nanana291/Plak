@@ -214,5 +214,11 @@
     "GameId": 108812548042471,
     "FallbackName": "Harvest It All",
     "Status": "Available"
+  },
+  {
+    "Id": "hike-for-eggs",
+    "GameId": 110432290690507,
+    "FallbackName": "Hike For Eggs",
+    "Status": "Available"
   }
 ]
