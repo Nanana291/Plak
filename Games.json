@@ -250,5 +250,11 @@
     "GameId": 111780058106351,
     "FallbackName": "+1 Plane Flight",
     "Status": "Available"
+  },
+  {
+    "Id": "lumber-empire",
+    "GameId": 99686412871121,
+    "FallbackName": "Lumber Empire",
+    "Status": "Available"
   }
 ]
