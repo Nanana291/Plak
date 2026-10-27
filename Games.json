@@ -238,5 +238,11 @@
     "GameId": 79039639963203,
     "FallbackName": "+1 Money Per Click",
     "Status": "Available"
+  },
+  {
+    "Id": "escape-the-walls",
+    "GameId": 104998230055110,
+    "FallbackName": "Escape The Walls",
+    "Status": "Available"
   }
 ]
