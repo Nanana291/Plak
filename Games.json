@@ -232,5 +232,11 @@
     "GameId": 95168737547508,
     "FallbackName": "Steal A Pet And Ride It!",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-money-per-click",
+    "GameId": 79039639963203,
+    "FallbackName": "+1 Money Per Click",
+    "Status": "Available"
   }
 ]
