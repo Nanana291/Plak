@@ -226,5 +226,11 @@
     "GameId": 124956964190522,
     "FallbackName": "+1 Wave Height Surf",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-a-pet-and-ride-it",
+    "GameId": 95168737547508,
+    "FallbackName": "Steal A Pet And Ride It!",
+    "Status": "Available"
   }
 ]
