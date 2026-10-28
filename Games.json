@@ -274,5 +274,11 @@
     "GameId": 135675416428111,
     "FallbackName": "Don't Steal My Eggs!",
     "Status": "Available"
+  },
+  {
+    "Id": "open-all-luggages",
+    "GameId": 74616808425188,
+    "FallbackName": "Open All Luggages",
+    "Status": "Available"
   }
 ]
