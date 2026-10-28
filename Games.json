@@ -256,5 +256,11 @@
     "GameId": 99686412871121,
     "FallbackName": "Lumber Empire",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-an-anime-pack",
+    "GameId": 133151378618377,
+    "FallbackName": "Steal an Anime Pack",
+    "Status": "Available"
   }
 ]
