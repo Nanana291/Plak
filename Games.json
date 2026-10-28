@@ -262,5 +262,11 @@
     "GameId": 133151378618377,
     "FallbackName": "Steal an Anime Pack",
     "Status": "Available"
+  },
+  {
+    "Id": "throw-food-for-animals",
+    "GameId": 120219252362013,
+    "FallbackName": "Throw Food For Animals",
+    "Status": "Available"
   }
 ]
