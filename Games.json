@@ -292,5 +292,11 @@
     "GameId": 103783698239156,
     "FallbackName": "Lift For Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-mine-for-eggs",
+    "GameId": 131137780566147,
+    "FallbackName": "+1 Mine For Eggs!",
+    "Status": "Available"
   }
 ]
