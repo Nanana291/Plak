@@ -286,5 +286,11 @@
     "GameId": 78043072776767,
     "FallbackName": "Fly Tesla Roadster To Steal Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "lift-for-eggs",
+    "GameId": 103783698239156,
+    "FallbackName": "Lift For Eggs",
+    "Status": "Available"
   }
 ]
