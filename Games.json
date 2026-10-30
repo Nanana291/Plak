@@ -310,5 +310,11 @@
     "GameId": 104411401076170,
     "FallbackName": "Split Mountain for Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "mog-to-steal-an-egg",
+    "GameId": 77922212238973,
+    "FallbackName": "Mog to Steal an Egg",
+    "Status": "Available"
   }
 ]
