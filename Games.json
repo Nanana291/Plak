@@ -316,5 +316,11 @@
     "GameId": 77922212238973,
     "FallbackName": "Mog to Steal an Egg",
     "Status": "Available"
+  },
+  {
+    "Id": "beat-the-boss-and-steal",
+    "GameId": 88942520514633,
+    "FallbackName": "Beat the Boss & Steal",
+    "Status": "Available"
   }
 ]
