@@ -322,5 +322,11 @@
     "GameId": 88942520514633,
     "FallbackName": "Beat the Boss & Steal",
     "Status": "Available"
+  },
+  {
+    "Id": "feed-a-giant",
+    "GameId": 130482497595360,
+    "FallbackName": "Feed a Giant",
+    "Status": "Available"
   }
 ]
