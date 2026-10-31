@@ -358,5 +358,11 @@
     "GameId": 132325243931139,
     "FallbackName": "Sisyphus for Eggs!",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-an-clown-egg",
+    "GameId": 77881572888789,
+    "FallbackName": "Steal an Clown Egg",
+    "Status": "Available"
   }
 ]
