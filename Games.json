@@ -346,5 +346,11 @@
     "GameId": 89714256599622,
     "FallbackName": "Feed to Steal",
     "Status": "Available"
+  },
+  {
+    "Id": "boat-race-with-99-engines",
+    "GameId": 70913029896362,
+    "FallbackName": "Boat Race with 99 Engines!",
+    "Status": "Available"
   }
 ]
