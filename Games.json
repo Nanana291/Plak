@@ -328,5 +328,11 @@
     "GameId": 130482497595360,
     "FallbackName": "Feed a Giant",
     "Status": "Available"
+  },
+  {
+    "Id": "fake-an-egg",
+    "GameId": 97289366402005,
+    "FallbackName": "Fake an Egg",
+    "Status": "Available"
   }
 ]
