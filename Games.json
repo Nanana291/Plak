@@ -364,5 +364,11 @@
     "GameId": 77881572888789,
     "FallbackName": "Steal an Clown Egg",
     "Status": "Available"
+  },
+  {
+    "Id": "train-pets-for-eggs",
+    "GameId": 100655715596680,
+    "FallbackName": "Train Pets for Eggs",
+    "Status": "Available"
   }
 ]
