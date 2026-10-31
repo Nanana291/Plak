@@ -340,5 +340,11 @@
     "GameId": 105564332066869,
     "FallbackName": "Egg Skipping",
     "Status": "Available"
+  },
+  {
+    "Id": "feed-to-steal",
+    "GameId": 89714256599622,
+    "FallbackName": "Feed to Steal",
+    "Status": "Available"
   }
 ]
