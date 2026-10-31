@@ -334,5 +334,11 @@
     "GameId": 97289366402005,
     "FallbackName": "Fake an Egg",
     "Status": "Available"
+  },
+  {
+    "Id": "egg-skipping",
+    "GameId": 105564332066869,
+    "FallbackName": "Egg Skipping",
+    "Status": "Available"
   }
 ]
