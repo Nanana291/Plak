@@ -352,5 +352,11 @@
     "GameId": 70913029896362,
     "FallbackName": "Boat Race with 99 Engines!",
     "Status": "Available"
+  },
+  {
+    "Id": "sisyphus-for-eggs",
+    "GameId": 132325243931139,
+    "FallbackName": "Sisyphus for Eggs!",
+    "Status": "Available"
   }
 ]
