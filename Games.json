@@ -394,5 +394,11 @@
     "GameId": 116448925875915,
     "FallbackName": "+1 Venom Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-dance-battle-evolution",
+    "GameId": 76413295757565,
+    "FallbackName": "+1 Dance Battle Evolution",
+    "Status": "Available"
   }
 ]
