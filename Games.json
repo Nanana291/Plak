@@ -376,5 +376,11 @@
     "GameId": 113956654824187,
     "FallbackName": "Swim For Eggs!",
     "Status": "Available"
+  },
+  {
+    "Id": "climb-for-animals-eggs",
+    "GameId": 85738654635245,
+    "FallbackName": "Climb For Animals Eggs",
+    "Status": "Available"
   }
 ]
