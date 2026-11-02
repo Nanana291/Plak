@@ -460,5 +460,11 @@
     "GameId": 99409088950210,
     "FallbackName": "Survive a Million Monkeys",
     "Status": "Available"
+  },
+  {
+    "Id": "anime-paradise",
+    "GameId": 96665881849072,
+    "FallbackName": "Anime Paradise",
+    "Status": "Available"
   }
 ]
