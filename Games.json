@@ -430,5 +430,11 @@
     "GameId": 117734411290994,
     "FallbackName": "+1 Spider Arm",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-boxing-battle-evolution",
+    "GameId": 81719261096515,
+    "FallbackName": "+1 Boxing Battle Evolution",
+    "Status": "Available"
   }
 ]
