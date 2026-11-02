@@ -436,5 +436,11 @@
     "GameId": 81719261096515,
     "FallbackName": "+1 Boxing Battle Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "ride-an-egg",
+    "GameId": 76406337917543,
+    "FallbackName": "Ride An Egg",
+    "Status": "Available"
   }
 ]
