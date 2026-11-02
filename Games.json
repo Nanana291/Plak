@@ -448,5 +448,11 @@
     "GameId": 119101118479978,
     "FallbackName": "Depth Incremental",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-assassin-leveling",
+    "GameId": 120731410233153,
+    "FallbackName": "+1 Assassin Leveling",
+    "Status": "Available"
   }
 ]
