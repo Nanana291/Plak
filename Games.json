@@ -406,5 +406,11 @@
     "GameId": 109238145423218,
     "FallbackName": "+1 Power Fruit Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-anime-eyes",
+    "GameId": 97617452700163,
+    "FallbackName": "+1 Anime Eyes",
+    "Status": "Available"
   }
 ]
