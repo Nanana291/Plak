@@ -418,5 +418,11 @@
     "GameId": 86483978642092,
     "FallbackName": "+1 Titan Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "tap-simulator-reborn",
+    "GameId": 72858262610964,
+    "FallbackName": "Tap Simulator REBORN",
+    "Status": "Available"
   }
 ]
