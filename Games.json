@@ -424,5 +424,11 @@
     "GameId": 72858262610964,
     "FallbackName": "Tap Simulator REBORN",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-spider-arm",
+    "GameId": 117734411290994,
+    "FallbackName": "+1 Spider Arm",
+    "Status": "Available"
   }
 ]
