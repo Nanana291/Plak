@@ -454,5 +454,11 @@
     "GameId": 120731410233153,
     "FallbackName": "+1 Assassin Leveling",
     "Status": "Available"
+  },
+  {
+    "Id": "survive-a-million-monkeys",
+    "GameId": 99409088950210,
+    "FallbackName": "Survive a Million Monkeys",
+    "Status": "Available"
   }
 ]
