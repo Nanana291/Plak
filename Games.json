@@ -466,5 +466,11 @@
     "GameId": 96665881849072,
     "FallbackName": "Anime Paradise",
     "Status": "Available"
+  },
+  {
+    "Id": "superhero-arena",
+    "GameId": 78710221869926,
+    "FallbackName": "Superhero Arena",
+    "Status": "Available"
   }
 ]
