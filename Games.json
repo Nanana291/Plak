@@ -484,5 +484,11 @@
     "GameId": 113273588963037,
     "FallbackName": "+1 Upgrade Per Kill",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-a-superpower",
+    "GameId": 74183246285569,
+    "FallbackName": "Steal a Superpower!",
+    "Status": "Available"
   }
 ]
