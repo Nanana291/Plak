@@ -472,5 +472,11 @@
     "GameId": 78710221869926,
     "FallbackName": "Superhero Arena",
     "Status": "Available"
+  },
+  {
+    "Id": "anime-piece",
+    "GameId": 134039915751463,
+    "FallbackName": "Anime Piece",
+    "Status": "Available"
   }
 ]
