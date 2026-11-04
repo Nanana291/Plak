@@ -478,5 +478,11 @@
     "GameId": 134039915751463,
     "FallbackName": "Anime Piece",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-upgrade-per-kill",
+    "GameId": 113273588963037,
+    "FallbackName": "+1 Upgrade Per Kill",
+    "Status": "Available"
   }
 ]
