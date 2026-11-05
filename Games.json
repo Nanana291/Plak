@@ -490,5 +490,11 @@
     "GameId": 74183246285569,
     "FallbackName": "Steal a Superpower!",
     "Status": "Available"
+  },
+  {
+    "Id": "bike-for-egg",
+    "GameId": 74023858073178,
+    "FallbackName": "Bike For Egg!",
+    "Status": "Available"
   }
 ]
