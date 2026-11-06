@@ -514,5 +514,11 @@
     "GameId": 92696280499166,
     "FallbackName": "Make Viral Candy!",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-a-scooter",
+    "GameId": 107344344488571,
+    "FallbackName": "Steal A Scooter",
+    "Status": "Available"
   }
 ]
