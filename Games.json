@@ -508,5 +508,11 @@
     "GameId": 125866884667103,
     "FallbackName": "Sell a Million Sushi",
     "Status": "Available"
+  },
+  {
+    "Id": "make-viral-candy",
+    "GameId": 92696280499166,
+    "FallbackName": "Make Viral Candy!",
+    "Status": "Available"
   }
 ]
