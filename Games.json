@@ -528,9 +528,9 @@
     "Status": "Available"
   },
   {
-    "Id": "escape-tsunami-for-eggs",
-    "GameId": 73778935267652,
-    "FallbackName": "Escape Tsunami For Eggs",
+    "Id": "steal-eggs-from-tsunami",
+    "GameId": 99838015219458,
+    "FallbackName": "Steal Eggs From Tsunami",
     "Status": "Available"
   }
 ]
