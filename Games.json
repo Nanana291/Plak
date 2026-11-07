@@ -538,5 +538,11 @@
     "GameId": 120227620536802,
     "FallbackName": "Run For Eggs",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-destruction-battlegrounds",
+    "GameId": 137162635710589,
+    "FallbackName": "+1 Destruction Battlegrounds",
+    "Status": "Available"
   }
 ]
