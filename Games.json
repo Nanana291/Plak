@@ -526,5 +526,11 @@
     "GameId": 129286807537154,
     "FallbackName": "+1 Arm Length",
     "Status": "Available"
+  },
+  {
+    "Id": "escape-tsunami-for-eggs",
+    "GameId": 73778935267652,
+    "FallbackName": "Escape Tsunami For Eggs",
+    "Status": "Available"
   }
 ]
