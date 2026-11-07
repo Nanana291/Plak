@@ -544,5 +544,11 @@
     "GameId": 137162635710589,
     "FallbackName": "+1 Destruction Battlegrounds",
     "Status": "Available"
+  },
+  {
+    "Id": "climb-and-steal-an-egg",
+    "GameId": 129575489050393,
+    "FallbackName": "Climb and Steal an Egg",
+    "Status": "Available"
   }
 ]
