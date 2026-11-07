@@ -532,5 +532,11 @@
     "GameId": 99838015219458,
     "FallbackName": "Steal Eggs From Tsunami",
     "Status": "Available"
+  },
+  {
+    "Id": "run-for-eggs",
+    "GameId": 120227620536802,
+    "FallbackName": "Run For Eggs",
+    "Status": "Available"
   }
 ]
