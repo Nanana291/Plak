@@ -574,5 +574,11 @@
     "GameId": 135361740992269,
     "FallbackName": "Chop And Steal An Egg",
     "Status": "Available"
+  },
+  {
+    "Id": "escape-the-jungle",
+    "GameId": 71977599723985,
+    "FallbackName": "Escape The Jungle",
+    "Status": "Available"
   }
 ]
