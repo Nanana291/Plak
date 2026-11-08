@@ -562,5 +562,11 @@
     "GameId": 134117451433332,
     "FallbackName": "13 Days to Escape",
     "Status": "Available"
+  },
+  {
+    "Id": "bey-rivals",
+    "GameId": 79726149410614,
+    "FallbackName": "Bey Rivals",
+    "Status": "Available"
   }
 ]
