@@ -568,5 +568,11 @@
     "GameId": 79726149410614,
     "FallbackName": "Bey Rivals",
     "Status": "Available"
+  },
+  {
+    "Id": "chop-and-steal-an-egg",
+    "GameId": 135361740992269,
+    "FallbackName": "Chop And Steal An Egg",
+    "Status": "Available"
   }
 ]
