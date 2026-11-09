@@ -580,5 +580,11 @@
     "GameId": 71977599723985,
     "FallbackName": "Escape The Jungle",
     "Status": "Available"
+  },
+  {
+    "Id": "steal-a-wild-horse",
+    "GameId": 108882317917336,
+    "FallbackName": "Steal A Wild Horse",
+    "Status": "Available"
   }
 ]
