@@ -586,5 +586,11 @@
     "GameId": 108882317917336,
     "FallbackName": "Steal A Wild Horse",
     "Status": "Available"
+  },
+  {
+    "Id": "voxel-heroes",
+    "GameId": 93974548894972,
+    "FallbackName": "Voxel Heroes",
+    "Status": "Available"
   }
 ]
