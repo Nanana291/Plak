@@ -592,5 +592,11 @@
     "GameId": 93974548894972,
     "FallbackName": "Voxel Heroes",
     "Status": "Available"
+  },
+  {
+    "Id": "break-and-steal-an-egg",
+    "GameId": 114326934417838,
+    "FallbackName": "Break and Steal an Egg",
+    "Status": "Available"
   }
 ]
