@@ -610,5 +610,11 @@
     "GameId": 70567592362925,
     "FallbackName": "Shred The Cash",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-sukuna-evolution",
+    "GameId": 76658223549414,
+    "FallbackName": "+1 Sukuna Evolution",
+    "Status": "Available"
   }
 ]
