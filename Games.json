@@ -604,5 +604,11 @@
     "GameId": 113986269985034,
     "FallbackName": "Build a REAL House",
     "Status": "Available"
+  },
+  {
+    "Id": "shred-the-cash",
+    "GameId": 70567592362925,
+    "FallbackName": "Shred The Cash",
+    "Status": "Available"
   }
 ]
