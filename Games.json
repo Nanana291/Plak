@@ -598,5 +598,11 @@
     "GameId": 114326934417838,
     "FallbackName": "Break and Steal an Egg",
     "Status": "Available"
+  },
+  {
+    "Id": "build-a-real-house",
+    "GameId": 113986269985034,
+    "FallbackName": "Build a REAL House",
+    "Status": "Available"
   }
 ]
