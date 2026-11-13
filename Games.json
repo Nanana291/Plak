@@ -652,5 +652,11 @@
     "GameId": 93898234979111,
     "FallbackName": "Net a Fish!",
     "Status": "Available"
+  },
+  {
+    "Id": "boats-go-boom",
+    "GameId": 80364693006131,
+    "FallbackName": "Boats Go BOOM",
+    "Status": "Available"
   }
 ]
