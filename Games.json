@@ -622,5 +622,11 @@
     "GameId": 103265940798818,
     "FallbackName": "Cast A Magnet",
     "Status": "Available"
+  },
+  {
+    "Id": "clean-the-bugs",
+    "GameId": 126810262789538,
+    "FallbackName": "Clean The Bugs",
+    "Status": "Available"
   }
 ]
