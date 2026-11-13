@@ -634,5 +634,11 @@
     "GameId": 134026357772960,
     "FallbackName": "Barber Simulator",
     "Status": "Available"
+  },
+  {
+    "Id": "gym-universe",
+    "GameId": 109607959528470,
+    "FallbackName": "Gym Universe",
+    "Status": "Available"
   }
 ]
