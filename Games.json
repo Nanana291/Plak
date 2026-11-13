@@ -616,5 +616,11 @@
     "GameId": 76658223549414,
     "FallbackName": "+1 Sukuna Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "cast-a-magnet",
+    "GameId": 103265940798818,
+    "FallbackName": "Cast A Magnet",
+    "Status": "Available"
   }
 ]
