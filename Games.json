@@ -628,5 +628,11 @@
     "GameId": 126810262789538,
     "FallbackName": "Clean The Bugs",
     "Status": "Available"
+  },
+  {
+    "Id": "barber-simulator",
+    "GameId": 134026357772960,
+    "FallbackName": "Barber Simulator",
+    "Status": "Available"
   }
 ]
