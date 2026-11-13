@@ -646,5 +646,11 @@
     "GameId": 123969755970816,
     "FallbackName": "Ant Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "net-a-fish",
+    "GameId": 93898234979111,
+    "FallbackName": "Net a Fish!",
+    "Status": "Available"
   }
 ]
