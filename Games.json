@@ -664,5 +664,11 @@
     "GameId": 127112779460977,
     "FallbackName": "Into The Hive",
     "Status": "Available"
+  },
+  {
+    "Id": "impossible-hill-climb",
+    "GameId": 100981917200669,
+    "FallbackName": "Impossible Hill Climb",
+    "Status": "Available"
   }
 ]
