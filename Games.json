@@ -682,5 +682,11 @@
     "GameId": 123316423799511,
     "FallbackName": "Kill 'Em All",
     "Status": "Available"
+  },
+  {
+    "Id": "tattoo-to-get-rich",
+    "GameId": 126292550340546,
+    "FallbackName": "Tattoo to Get Rich",
+    "Status": "Available"
   }
 ]
