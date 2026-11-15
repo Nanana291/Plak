@@ -688,5 +688,11 @@
     "GameId": 126292550340546,
     "FallbackName": "Tattoo to Get Rich",
     "Status": "Available"
+  },
+  {
+    "Id": "throw-a-seed",
+    "GameId": 129081220403721,
+    "FallbackName": "Throw A Seed",
+    "Status": "Available"
   }
 ]
