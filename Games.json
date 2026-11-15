@@ -694,5 +694,11 @@
     "GameId": 129081220403721,
     "FallbackName": "Throw A Seed",
     "Status": "Available"
+  },
+  {
+    "Id": "cook-pizzas-anomaly",
+    "GameId": 99905511294377,
+    "FallbackName": "Cook Pizzas [Anomaly]",
+    "Status": "Available"
   }
 ]
