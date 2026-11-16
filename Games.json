@@ -706,5 +706,11 @@
     "GameId": 127366577128237,
     "FallbackName": "Pull A Dino",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-gun-forge",
+    "GameId": 75687962646869,
+    "FallbackName": "+1 Gun Forge",
+    "Status": "Available"
   }
 ]
