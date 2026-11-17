@@ -718,5 +718,11 @@
     "GameId": 129383120986892,
     "FallbackName": "+1 Ghoul Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "scare-your-favorite-streamer",
+    "GameId": 121011978933862,
+    "FallbackName": "Scare Your Favorite Streamer",
+    "Status": "Available"
   }
 ]
