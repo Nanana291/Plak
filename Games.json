@@ -712,5 +712,11 @@
     "GameId": 75687962646869,
     "FallbackName": "+1 Gun Forge",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-ghoul-evolution",
+    "GameId": 129383120986892,
+    "FallbackName": "+1 Ghoul Evolution",
+    "Status": "Available"
   }
 ]
