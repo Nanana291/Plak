@@ -742,5 +742,11 @@
     "GameId": 137629355240872,
     "FallbackName": "GloryBound",
     "Status": "Available"
+  },
+  {
+    "Id": "build-a-racetrack",
+    "GameId": 95221040467077,
+    "FallbackName": "Build A Racetrack",
+    "Status": "Available"
   }
 ]
