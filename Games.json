@@ -736,5 +736,11 @@
     "GameId": 95105291546154,
     "FallbackName": "100 Miles Down the River",
     "Status": "Available"
+  },
+  {
+    "Id": "glorybound",
+    "GameId": 137629355240872,
+    "FallbackName": "GloryBound",
+    "Status": "Available"
   }
 ]
