@@ -748,5 +748,11 @@
     "GameId": 95221040467077,
     "FallbackName": "Build A Racetrack",
     "Status": "Available"
+  },
+  {
+    "Id": "infect-a-factory",
+    "GameId": 88461594756414,
+    "FallbackName": "Infect a Factory",
+    "Status": "Available"
   }
 ]
