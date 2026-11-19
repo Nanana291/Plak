@@ -724,5 +724,11 @@
     "GameId": 121011978933862,
     "FallbackName": "Scare Your Favorite Streamer",
     "Status": "Available"
+  },
+  {
+    "Id": "bug-evolution",
+    "GameId": 70650894743738,
+    "FallbackName": "Bug Evolution",
+    "Status": "Available"
   }
 ]
