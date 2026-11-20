@@ -754,5 +754,17 @@
     "GameId": 88461594756414,
     "FallbackName": "Infect a Factory",
     "Status": "Available"
+  },
+  {
+    "Id": "flat-the-mountain",
+    "GameId": 99352685758267,
+    "FallbackName": "Flat the Mountain",
+    "Status": "Available"
+  },
+  {
+    "Id": "adventure-time-rpg",
+    "GameId": 118915268278945,
+    "FallbackName": "Adventure Time RPG",
+    "Status": "Available"
   }
 ]
