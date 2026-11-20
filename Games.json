@@ -766,5 +766,11 @@
     "GameId": 118915268278945,
     "FallbackName": "Adventure Time RPG",
     "Status": "Available"
+  },
+  {
+    "Id": "risky-pirates",
+    "GameId": 77276284223221,
+    "FallbackName": "Risky Pirates!",
+    "Status": "Available"
   }
 ]
