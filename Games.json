@@ -772,5 +772,11 @@
     "GameId": 77276284223221,
     "FallbackName": "Risky Pirates!",
     "Status": "Available"
+  },
+  {
+    "Id": "swat-elite-force",
+    "GameId": 102972365566319,
+    "FallbackName": "SWAT: Elite Force",
+    "Status": "Available"
   }
 ]
