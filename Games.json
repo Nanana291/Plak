@@ -838,5 +838,11 @@
     "GameId": 73435402573922,
     "FallbackName": "+1 Leviathan Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "infinity-wrath",
+    "GameId": 90842640696336,
+    "FallbackName": "Infinity Wrath",
+    "Status": "Available"
   }
 ]
