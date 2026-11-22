@@ -784,5 +784,41 @@
     "GameId": 136950293103590,
     "FallbackName": "Defeat Ragdolls for Powers!",
     "Status": "Available"
+  },
+  {
+    "Id": "walls",
+    "GameId": 124550432477389,
+    "FallbackName": "Walls",
+    "Status": "Available"
+  },
+  {
+    "Id": "build-your-fnaf-pizzeria-simulator",
+    "GameId": 131233738414784,
+    "FallbackName": "Build Your FNAF Pizzeria Simulator",
+    "Status": "Available"
+  },
+  {
+    "Id": "stay-the-night",
+    "GameId": 93349291960708,
+    "FallbackName": "Stay the Night",
+    "Status": "Available"
+  },
+  {
+    "Id": "revenant-protocol-zombies",
+    "GameId": 136189272144990,
+    "FallbackName": "Revenant Protocol: ZOMBIES",
+    "Status": "Available"
+  },
+  {
+    "Id": "survive-a-psycho",
+    "GameId": 90249274732038,
+    "FallbackName": "Survive a Psycho",
+    "Status": "Available"
+  },
+  {
+    "Id": "run-a-christmas-tree-lot",
+    "GameId": 112146301142141,
+    "FallbackName": "Run a Christmas Tree Lot",
+    "Status": "Available"
   }
 ]
