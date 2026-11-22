@@ -856,5 +856,11 @@
     "GameId": 78209250473851,
     "FallbackName": "Drink the Ocean",
     "Status": "Available"
+  },
+  {
+    "Id": "parasite-simulator",
+    "GameId": 87935648944176,
+    "FallbackName": "Parasite Simulator",
+    "Status": "Available"
   }
 ]
