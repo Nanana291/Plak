@@ -826,5 +826,11 @@
     "GameId": 124783046867240,
     "FallbackName": "Portal Mayhem",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-1-anime-speed",
+    "GameId": 73633929910601,
+    "FallbackName": "+1 Anime Speed",
+    "Status": "Available"
   }
 ]
