@@ -778,5 +778,11 @@
     "GameId": 102972365566319,
     "FallbackName": "SWAT: Elite Force",
     "Status": "Available"
+  },
+  {
+    "Id": "defeat-ragdolls-for-powers",
+    "GameId": 136950293103590,
+    "FallbackName": "Defeat Ragdolls for Powers!",
+    "Status": "Available"
   }
 ]
