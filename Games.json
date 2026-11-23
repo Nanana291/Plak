@@ -880,5 +880,11 @@
     "GameId": 125518655171294,
     "FallbackName": "Project Soul's",
     "Status": "Available"
+  },
+  {
+    "Id": "fake-sick",
+    "GameId": 116365602177114,
+    "FallbackName": "Fake Sick!",
+    "Status": "Available"
   }
 ]
