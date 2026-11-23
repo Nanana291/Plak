@@ -886,5 +886,11 @@
     "GameId": 116365602177114,
     "FallbackName": "Fake Sick!",
     "Status": "Available"
+  },
+  {
+    "Id": "build-and-sell-houses",
+    "GameId": 121814240505325,
+    "FallbackName": "Build and Sell Houses!",
+    "Status": "Available"
   }
 ]
