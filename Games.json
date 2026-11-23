@@ -874,5 +874,11 @@
     "GameId": 73547227876007,
     "FallbackName": "Half Punch",
     "Status": "Available"
+  },
+  {
+    "Id": "project-souls",
+    "GameId": 125518655171294,
+    "FallbackName": "Project Soul's",
+    "Status": "Available"
   }
 ]
