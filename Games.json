@@ -916,5 +916,11 @@
     "GameId": 106617171492415,
     "FallbackName": "Cursed Voyage",
     "Status": "Available"
+  },
+  {
+    "Id": "cameraman-tower-defense",
+    "GameId": 132929771812494,
+    "FallbackName": "Cameraman Tower Defense",
+    "Status": "Available"
   }
 ]
