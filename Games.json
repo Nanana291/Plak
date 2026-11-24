@@ -904,5 +904,11 @@
     "GameId": 87331765203948,
     "FallbackName": "BELOW [HORROR]",
     "Status": "Available"
+  },
+  {
+    "Id": "chaos-battlegrounds",
+    "GameId": 92311277052316,
+    "FallbackName": "Chaos Battlegrounds",
+    "Status": "Available"
   }
 ]
