@@ -910,5 +910,11 @@
     "GameId": 92311277052316,
     "FallbackName": "Chaos Battlegrounds",
     "Status": "Available"
+  },
+  {
+    "Id": "cursed-voyage",
+    "GameId": 106617171492415,
+    "FallbackName": "Cursed Voyage",
+    "Status": "Available"
   }
 ]
