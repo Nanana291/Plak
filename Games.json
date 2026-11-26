@@ -934,5 +934,11 @@
     "GameId": 129516203408961,
     "FallbackName": "Barber Empire",
     "Status": "Available"
+  },
+  {
+    "Id": "build-a-bakery",
+    "GameId": 113450637321433,
+    "FallbackName": "Build a Bakery",
+    "Status": "Available"
   }
 ]
