@@ -928,5 +928,11 @@
     "GameId": 95906000281221,
     "FallbackName": "CYBERPSYCHOSIS",
     "Status": "Available"
+  },
+  {
+    "Id": "barber-empire",
+    "GameId": 129516203408961,
+    "FallbackName": "Barber Empire",
+    "Status": "Available"
   }
 ]
