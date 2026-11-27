@@ -952,5 +952,11 @@
     "GameId": 120256203702735,
     "FallbackName": "Silent Killer Simulator",
     "Status": "Available"
+  },
+  {
+    "Id": "chase-a-storm",
+    "GameId": 130973302679846,
+    "FallbackName": "Chase a Storm!",
+    "Status": "Available"
   }
 ]
