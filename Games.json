@@ -946,5 +946,11 @@
     "GameId": 104094931084106,
     "FallbackName": "Illegal Bikes",
     "Status": "Available"
+  },
+  {
+    "Id": "silent-killer-simulator",
+    "GameId": 120256203702735,
+    "FallbackName": "Silent Killer Simulator",
+    "Status": "Available"
   }
 ]
