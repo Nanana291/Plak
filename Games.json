@@ -970,5 +970,11 @@
     "GameId": 137992029952947,
     "FallbackName": "[CH2] Thirsty Grandpa",
     "Status": "Available"
+  },
+  {
+    "Id": "plus-one-jutsu-evolution",
+    "GameId": 74346700213676,
+    "FallbackName": "+1 Jutsu Evolution",
+    "Status": "Available"
   }
 ]
