@@ -976,5 +976,11 @@
     "GameId": 74346700213676,
     "FallbackName": "+1 Jutsu Evolution",
     "Status": "Available"
+  },
+  {
+    "Id": "weak-legacy-2",
+    "GameId": 18337464872,
+    "FallbackName": "Weak Legacy 2",
+    "Status": "Available"
   }
 ]
